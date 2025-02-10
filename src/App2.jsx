@@ -1,4 +1,10 @@
+// rafce
+import React from 'react'
 
-// arrow function
-const App2 = () => <h1>Hello, World!</h1>;
+const App2 = () => {
+  return (
+    <div>App2</div>
+  )
+}
 
+export default App2
